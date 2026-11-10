@@ -1,0 +1,8 @@
+customer_segment,customers,average_recency_days,average_frequency,average_monetary,total_product_revenue,customer_percentage
+Other One-Time Buyers,43986,337.14,1.0,75.69,3329292.28,47.12
+Potential Loyalists,21264,92.07,1.0,211.27,4492425.22,22.78
+Recent One-Time Buyers,15081,90.57,1.0,40.4,609252.49,16.15
+High-Value One-Time Buyers,10226,341.53,1.0,397.23,4062119.37,10.95
+At Risk,982,383.52,2.08,246.65,242211.41,1.05
+Champions,941,90.21,2.19,326.83,307543.11,1.01
+Loyal Customers,878,178.79,2.07,203.48,178654.23,0.94

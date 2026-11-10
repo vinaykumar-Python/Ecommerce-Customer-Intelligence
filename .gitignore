@@ -1,0 +1,34 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Local database
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Original and processed datasets
+data/raw/*
+data/processed/*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+basket_category,total_orders,total_units,average_items_per_order,total_product_revenue,average_order_value,total_freight,order_percentage
+Single Item,86843,86843,1.0,11263605.06,129.7,1765385.28,90.01
+2-3 Items,8698,18702,2.15,1595243.03,183.4,345669.67,9.02
+4+ Items,937,4652,4.96,362650.02,387.03,87220.69,0.97
